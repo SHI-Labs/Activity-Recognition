@@ -19,11 +19,12 @@ This repository contains a compilation of code implementations for numerous work
 -->
 2. MMAction [Link](https://github.com/open-mmlab/mmaction)
 3. MMAction2 [Link](https://github.com/open-mmlab/mmaction2)
-4. Facebook Video Modelling Zoo [Link](https://github.com/facebookresearch/VMZ)
-5. PyVideoResearch [Link](https://github.com/gsig/PyVideoResearch)
-6. GluonCV [Link](https://cv.gluon.ai/model_zoo/action_recognition.html)
-7. M-PACT [Link](https://github.com/MichiganCOG/M-PACT)
-8. PyTorch Video Recognition [Link](https://github.com/jfzhang95/pytorch-video-recognition)
+4. ClassyVision [Link](https://classyvision.ai/tutorials/video_classification)
+5. Facebook Video Modelling Zoo [Link](https://github.com/facebookresearch/VMZ)
+6. PyVideoResearch [Link](https://github.com/gsig/PyVideoResearch)
+7. GluonCV [Link](https://cv.gluon.ai/model_zoo/action_recognition.html)
+8. M-PACT [Link](https://github.com/MichiganCOG/M-PACT)
+9. PyTorch Video Recognition [Link](https://github.com/jfzhang95/pytorch-video-recognition)
 
 ### Multi-stream Methods:
 1. Convolutional Two-Stream Network Fusion for Video Action Recognition [Code](https://github.com/feichtenhofer/twostreamfusion) | [Paper](https://arxiv.org/abs/1604.06573)
