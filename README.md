@@ -82,3 +82,4 @@ Local Feature Integration for Video Classification [Unofficial Code](https://git
 22. End-to-end Video-level Representation Learning for Action Recognition [Code](https://github.com/zhujiagang/DTPP) | [Paper](https://arxiv.org/abs/1711.04161)
 23. Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [Code](https://github.com/wanglimin/TDD) | [Paper](https://arxiv.org/abs/1505.04868)
 24. Real-time Action Recognition with Enhanced Motion Vector CNNs [Code](https://github.com/zbwglory/MV-release) | [Paper](https://arxiv.org/abs/1604.07669)
+25. Temporal-Relational CrossTransformers for Few-Shot Action Recognition [Code](https://github.com/tobyperrett/trx) | [Paper](https://arxiv.org/abs/2101.06184)
